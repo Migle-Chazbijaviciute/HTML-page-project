@@ -1,0 +1,29 @@
+:root {
+    /* colors */
+    --black: #000;
+    --dark: #413f3f;
+    --dark-transparent: #252525ee;
+    --white: rgb(250, 248, 246);
+    --light: rgb(250, 220, 200);
+    --light-transparent: rgba(247, 192, 160, 0.678);
+    --shadow-color: #0005;
+
+    /* typography */
+    --main-font:'Raleway', 'Helvetica Neue', sans-serif;
+    --font-color-light: var(--light); 
+    --font-color-dark: var(--dark); 
+    
+
+    /* components */
+    --navbar-height: 56px;
+    --footer-height: 56px;
+
+    /* shadows */
+    --shadow-sm: 0 1px 2px 1px var(--shadow-color);
+    --shadow: 0 2px 4px 2px var(--shadow-color);
+    --shadow-xl: 0 3px 6px 3px var(--shadow-color);
+
+    /* z-index */
+    --z-index-navbar: 1200;
+    --z-index-footer: 1050;
+}

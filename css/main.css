@@ -1,0 +1,24 @@
+
+@import "base/variables.css";
+@import "base/reset.css";
+@import "base/typography.css";
+
+@import "utilities/spacing.css";
+@import "utilities/dimensions.css";
+@import "utilities/background.css";
+
+@import "layout/display.css";
+@import "layout/containers.css";
+@import "layout/flex.css";
+
+@import "components/navbar.css";
+@import "components/footer.css";
+@import "components/hero.css";
+@import "components/carousel.css";
+@import "components/specialists.css";
+
+
+/* pasviręs posh šriftas h1 */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+/* trys paprastesni šriftai */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Raleway:ital,wght@0,300;0,400;1,100&display=swap');

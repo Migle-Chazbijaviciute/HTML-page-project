@@ -1,0 +1,5 @@
+.footerM{
+  height: var(--footer-height);
+  position: relative;
+  z-index: var(--z-index-footer);
+}

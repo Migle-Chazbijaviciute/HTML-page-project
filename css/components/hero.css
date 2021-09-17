@@ -1,0 +1,26 @@
+
+/* .main-height{
+    height: 50vw;
+} */
+
+
+.p-rel{
+    position:relative;
+    color: black; 
+}
+
+.hero-img::before{
+    content: "";
+    background-image:url(../../images/glowy_skin-_opt.jpg);
+    background-position: center;
+    background-size: cover;
+    position:absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.4;
+
+}
+
+

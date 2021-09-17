@@ -1,0 +1,18 @@
+.bd-img1{
+    background-image: url(../../images/Ceo.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.bd-img2{
+    background-image: url(../../images/specialist-man.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.bd-img3{
+    background-image: url(../../images/cosmetologist.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
